@@ -38,7 +38,6 @@ I am a student preparing to start my Master's at UNSW. I like building things, t
 
 * 🤖 **AI-Assisted**: I don't know everything, but I am good CAI tools to help me look up documents, debug errors, and learn how to use new frameworks when I get stuck.
 * 🔧 **Hands-on**: I prefer learning by doing—flashing code onto microcontrollers or deploying small web apps to see if they actually work.
-* 🧩 In my free time, I just like solving Sudoku puzzles and making trap beats.
 
 ---
 
