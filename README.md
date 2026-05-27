@@ -1,3 +1,7 @@
+<p align="right">
+  🇨🇳 <a href="./README_ZH.md">中文版本</a>
+</p>
+
 # Hi there, I'm Mingsi Cai 👋
 
 I am a student preparing to start my Master's at UNSW. I like building things, tinkering with hardware, and using AI to help me learn new technical skills.
@@ -24,12 +28,12 @@ I am a student preparing to start my Master's at UNSW. I like building things, t
 | :--- | :--- |
 | **Languages** | Python, Java, C/C++ (Basic) |
 | **Tools I Use** | Spring Boot, ROS2, YOLO, ESP32, Linux |
-| **Learning Assistants** | Gemini, ChatGPT, Kimi，Codex, Cursor |
+| **Learning Assistants** | Gemini, ChatGPT, Kimi |
 
 ---
 
 ### 💬 How I Learn
-* 🤖 **AI-Assisted**: I don't know everything, but I am good at using AI tools to help me look up documents, debug errors, and learn how to use new frameworks when I get stuck.
+* 🤖 **AI-Assisted**: I don't know everything, but I am good CAI tools to help me look up documents, debug errors, and learn how to use new frameworks when I get stuck.
 * 🔧 **Hands-on**: I prefer learning by doing—flashing code onto microcontrollers or deploying small web apps to see if they actually work.
 * 🧩 In my free time, I just like solving Sudoku puzzles and making trap beats.
 
