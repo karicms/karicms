@@ -24,7 +24,7 @@ I am a student preparing to start my Master's at UNSW. I like building things, t
 | :--- | :--- |
 | **Languages** | Python, Java, C/C++ (Basic) |
 | **Tools I Use** | Spring Boot, ROS2, YOLO, ESP32, Linux |
-| **Learning Assistants** | Gemini, ChatGPT, Kimi |
+| **Learning Assistants** | Gemini, ChatGPT, Kimi，Codex, Cursor |
 
 ---
 
